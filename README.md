@@ -1,5 +1,5 @@
 # portifolio
-Olá, bem vindo ao meu projeto de portifólio! Uma base para se inspirar
+Olá, bem vindo ao meu projeto de portifólio! Uma base para se inspirar.
 
 #Ferramentas Utilizadas:
 
