@@ -1,14 +1,14 @@
 # portifolio
 Olá, bem vindo ao meu projeto de portifólio! Uma base para se inspirar.
 
-#Ferramentas Utilizadas:
+# Ferramentas Utilizadas:
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*Flex-box
+* Flex-box
 
-##Feito Por:
+## Feito Por:
 
-##Maíra Felix
+## Maíra Felix
